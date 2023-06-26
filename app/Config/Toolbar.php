@@ -9,7 +9,7 @@ use CodeIgniter\Debug\Toolbar\Collectors\Files;
 use CodeIgniter\Debug\Toolbar\Collectors\Logs;
 use CodeIgniter\Debug\Toolbar\Collectors\Routes;
 use CodeIgniter\Debug\Toolbar\Collectors\Timers;
-use CodeIgniter\Debug\Toolbar\Collectors\Views;
+// use CodeIgniter\Debug\Toolbar\Collectors\Views;
 
 /**
  * --------------------------------------------------------------------------
